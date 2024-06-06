@@ -1,6 +1,5 @@
 Descripción del Proyecto:
-El proyecto consiste en diseñar e implementar una base de datos para una tienda de ropa. Esta base de datos almacenará información sobre las marcas de ropa disponibles, las prendas en inventario y las transacciones de venta realizadas en la tienda.
-
+El proyecto consiste en diseñar e implementar un sistema para una tienda de ropa, que permita que todo el proceso sea automatizado, y que sea un control de prendas dentro de la tienda de ropa.
 Estructura de la Base de Datos:
 Tabla Marcas:
 
