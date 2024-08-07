@@ -24,7 +24,8 @@ Integrantes: Valeria Quirós González
 ![alt text](https://github.com/vqg9805/DPA_Valeria-QuirosG/issues/1#issue-2337090476"Diagrama")
 
                                                                        PARTE II PROYECTO
-                                                                       Marcas
+
+Marcas
 Obtener todas las marcas
 
 Método: GET
