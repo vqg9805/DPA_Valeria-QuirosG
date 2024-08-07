@@ -20,4 +20,5 @@ Mantendrá un registro detallado del stock disponible de cada prenda en la tiend
 
 
 Integrantes: Valeria Quirós González
-https://github.com/vqg9805/DPA_Valeria-QuirosG/issues/1#issue-2337090476
+![alt text](https://github.com/vqg9805/DPA_Valeria-QuirosG/issues/1#issue-2337090476"Diagrama")
+
